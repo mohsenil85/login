@@ -32,3 +32,7 @@ Session.vim
 .netrwhist
 *~
 
+
+db/mongodb/*
+!/db/mongodb/README.md
+bower_components/
